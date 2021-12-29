@@ -20,3 +20,5 @@ Now run client.py.
 
 # Server.py
 ![server](https://user-images.githubusercontent.com/65610828/147658992-099a54fd-96ef-42fd-b1d6-6f8517d3fb61.PNG)
+
+You can use ngrok for the tcp server.
