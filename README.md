@@ -3,6 +3,7 @@ Made with pygame. Multiplayer game using socket module and threading.
 # How to play
 Open network.json file and provide the server ip and port.\
 ![Capture](https://user-images.githubusercontent.com/65610828/147658015-96046d16-6820-4f6f-8dc1-02c8a16cd41e.PNG)
+
 Now run client.py.
 
 # Client.py
